@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Sheets",
+    "slug": "sheets",
+    "icon": "./assets/logo.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "600341ad-5fd2-4d59-8626-9367ac90eb68"
+      }
+    },
+    "owner": "jack859"
+  }
+}
